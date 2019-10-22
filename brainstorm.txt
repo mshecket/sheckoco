@@ -1,0 +1,18 @@
+This file is for my initial brainstorming.
+
+I want to basically create a clone of Fidelity Investments, except fake and perhaps better, in some ways, than what they've actually got.
+
+I picture this will consist of:
+
+- A front end: A web application with HTML5, CSS3, and JS -- perhaps with React or Vue -- and then a mobile app -- Android or iOS
+  separately or cross-platform -- maybe with React Native or NativeScript Vue?
+  
+- A back end: A MySQL database to contain the information on pretend customers, their accounts, and various pretend stocks they can trade,
+  a program to randomly generate stock price information and serve it up and/or store it to the database, and then a back-end interface
+  to connect between the database and stock prices and the front end apps
+  
+For the back end, I have some instinct to use Java because that's the language I'm most comfortable with, but I guess it's not the coolest
+or most commonly used language, so I might use Python or PHP. I don't love Ruby even though it's hot--I just think its syntax is sort of
+ugly. I might try C#/.Net for the first time. Or maybe I'll cook it up in more than one language just to show off.
+
+I will try to document all my code extensively.
